@@ -13,7 +13,7 @@ The Class can either receive an element that you created, or create one of it's 
     var AM = new ARIAMessager;
     
     /* simple use */
-    AM.writeMessage('I've just added new content');
+    AM.writeMessage("I've just added new content");
     
     
     /* real world example for notifing on AJAX changed */
